@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(./pot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.allcode {
+    height: 700px;
+    width: 100%;
+}
+
+.header1 {
+    background-color: aliceblue;
+    height: 12%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.content {
+    height: 88%;
+    width: 100%;
+}
+
+button {
+    color: yellowgreen;
+    font-size: 30px;
+}
+
+.class1 {
+    font-size: 30px;
+    margin-right: 3%;
+
+}
+
+.class2 {
+    font-size: 30px;
+    margin-right: 3%;
+}
+
+
+.class3 {
+    font-size: 30px;
+    margin-right: 3%;
+}
+
+.class4 {
+    font-size: 30px;
+    margin-right: 3%;
+}
+
+.class5 {
+    font-size: 30px;
+    margin-right: 3%;
+
+}
+
+.neos {
+    margin-right: 50%;
+}
+
+.wlc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%; 
+    margin-left: 3%;   
+   color: black;
+    font-size: 50px;
+}
